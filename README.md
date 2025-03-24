@@ -27,10 +27,11 @@ To complete this project, a good understanding of the following is needed:
 
 ## Installation
 Install the following locally: 
-*Python 3.8+
-*Python packages 
-  pandas
-  scikit-learn
+
+* Python 3.8+
+* Python packages
+    * pandas
+    * scikit-learn
 
 ## Data
 
