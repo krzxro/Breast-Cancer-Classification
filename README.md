@@ -37,4 +37,4 @@ Install the following locally:
 
 Download the dataset from Kaggle
 
-* Csv file of tumors [here]([https://drive.google.com/uc?export=download&id=1YyNpERG0jqPlpxZvvELaNcMHTiKVpfWe](https://drive.google.com/file/d/1wDjDuqDPAJd1cQEICcu19J9vrjFAWJ1H/view)).
+* Csv file of tumors [here]([https://drive.google.com/uc?export=download&id=1YyNpERG0jqPlpxZvvELaNcMHTiKVpfWe])
