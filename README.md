@@ -2,7 +2,7 @@
 
 The aim of this project is to classify whether tumors are malignant or benign using machine learning. The end goal of this project is achieved by training a machine learning model to classify tumors based on given data (radius of tumor, smoothness of tumor, texture of tumor, etc.)
 
-This project takes inspiration from https://www.youtube.com/watch?v=bFh1umUDaGc&t=1170s
+
 
 **Project Steps**
 
@@ -38,3 +38,6 @@ Install the following locally:
 Download the dataset from Kaggle
 
 * Csv file of tumors [here](https://drive.google.com/file/d/1wDjDuqDPAJd1cQEICcu19J9vrjFAWJ1H/view).
+
+
+This project takes inspiration from https://www.youtube.com/watch?v=bFh1umUDaGc&t=1170s
